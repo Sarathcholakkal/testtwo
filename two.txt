@@ -1,1 +1,2 @@
-first entry two
+first entry two.
+db function operations
